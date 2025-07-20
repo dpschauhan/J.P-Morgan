@@ -1,4 +1,4 @@
-# J.P. Morgan Job Simulation Completion
+# J.P. Morgan Job Simulation
 
 I have successfully completed the J.P. Morgan Job Simulation on Forage, gaining hands-on experience with real-world tasks in the financial services industry.
 
